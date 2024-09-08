@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+:root{
+    --color-white: hsl(0, 0%, 100%);
+    --color-stone1: hsl(30, 54%, 90%);
+    --color-stone2: hsl(30, 18%, 87%);
+    --color-stone3: hsl(30, 10%, 34%);
+    --color-stone4: hsl(24, 5%, 18%);
+    --color-brown: hsl(14, 45%, 36%);
+    --color-rose: hsl(332, 51%, 32%);
+    --color-rose2: hsl(330, 100%, 98%);
+}
+
+html, body{
+    background: var(--color-stone1);
+}
